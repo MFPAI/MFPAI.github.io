@@ -7,7 +7,7 @@ title: New MFPAI Members
 
 As 2020 lands, we're pleased to announce that we have added four new members to our association:
 
-* Anna Rolland,
+* Anna Rolland
 * Brendan Zabarauskas
 * Javier Candeira
 * Maun Suang Boey
