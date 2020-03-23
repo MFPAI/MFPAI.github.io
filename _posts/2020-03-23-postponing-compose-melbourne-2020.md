@@ -33,9 +33,13 @@ Thanks to all of you for being part of Melbourne::Compose. We could have never
 done it without you. When we start again, we'll only be able to do it because
 of you.
 
+<br>
+
 With kindness and hope,
 
 *MFPAI and Melbourne::Compose Organisers*
+
+<br> <br> <br>
 
 Melbourne Functional Programming Association Incorporated (MFPAI), Victorian
 registered number A0100082W.
