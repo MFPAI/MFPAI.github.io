@@ -35,23 +35,7 @@ of you.
 
 With kindness and hope,
 
-Javier Candeira
-Compose::Melbourne 2020 Interim Chair
-
-Compose::Melbourne 2020 Working Group Members:
-
-* Sasha Boyd
-* Andy Kitchen
-* Les Kitchen
-* Anna Rolland
-* Maun Suang Boey
-* Brendan Zabarauskas
-
-MFPAI committee members:
-
-* Lyndon Maydwell
-* Ken Scambler
-* Noon van der Silk
+*MFPAI and Melbourne::Compose Organisers*
 
 Melbourne Functional Programming Association Incorporated (MFPAI), Victorian
 registered number A0100082W.
